@@ -36,7 +36,7 @@ packages/react-devtools-extensions/.tempUserDataDir
 packages/react-devtools-inline/dist
 packages/react-devtools-shell/dist
 packages/react-devtools-timeline/dist
-05-hooks-app/hook-app/node_modules/
+05-hooks-app/hook-app/node_modules/*
 04-gifs-expert-app/gif-expert-app/node_modules/
 05-hooks-app/hook-app/node_modules/.cache/.eslintcache
 05-hooks-app/hook-app/node_modules/.cache/babel-loader/0a05af04d440e6d93c3baab71cc0039f.json
@@ -681,3 +681,4 @@ packages/react-devtools-timeline/dist
 05-hooks-app/hook-app/node_modules/.cache/default-development/16.pack
 05-hooks-app/hook-app/node_modules/.cache/default-development/index.pack
 05-hooks-app/hook-app/node_modules/.cache/default-development/index.pack.old
+05-hooks-app/hook-app/node_modules/.package-lock.json
